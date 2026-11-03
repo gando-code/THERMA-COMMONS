@@ -19,6 +19,12 @@ This repository brings together the 20-concept platform proposal, sponsorship ma
 - [Roadmap](docs/ROADMAP.md)
 - [Publication and IP status](RIGHTS.md)
 
+## Partner execution and outreach
+
+[Research and recommended sequence](docs/outreach/EXECUTION_RESEARCH.md) | [Verified contact register](docs/outreach/CONTACT_REGISTER.md) | [12 tailored drafts](docs/outreach/drafts/) | [Supplier and metrology RFQ](docs/outreach/MODULE_AND_METROLOGY_RFQ.md) | [Complete contact package PDF](artifacts/outreach/THERMA_COMMONS_Contacts_and_Execution.pdf)
+
+Public contacts and capabilities were researched on November 2, 2026. Drafts have not been sent. No provider has committed access, funding, pricing or a paid pilot. The existing universal proposal documents remain sponsor-neutral.
+
 ## Run without third-party dependencies
 
 Python 3.10 or later:
