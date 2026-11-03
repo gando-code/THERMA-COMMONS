@@ -1,3 +1,9 @@
+# Copyright 2026 Gerard Ando
+# SPDX-License-Identifier: MPL-2.0
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 """Idealized well-mixed lumped thermal model; not a food or hardware digital twin."""
 import math
 from .control import Config, Controller, Reading, State

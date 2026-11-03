@@ -37,6 +37,12 @@ Simulation results are visibly labeled synthetic. The model assumes well-mixed w
 
 The opening request is $25,000 for a 12-week liquid-demonstrator feasibility study, plus optional separately valued in-kind support. All costs and metrics are planning assumptions. Target +/-1 C performance is unachieved. Gate decisions, independent measurements and customer evidence determine whether later tray, paired-chamber, luxury and community variants proceed.
 
+## Licensing
+
+The research software in `src/` and `tests/`, together with `pyproject.toml` and `.github/workflows/`, is licensed under the [Mozilla Public License 2.0](LICENSE). Commercial use is permitted without a royalty obligation under MPL; when covered files are distributed with modifications, MPL source-availability obligations apply. Separate proprietary files can be combined into larger works under the license conditions.
+
+Proposal documents, PDFs, archives, example data, the proposal-generation tool and other materials remain reserved unless separately licensed. See [RIGHTS.md](RIGHTS.md) for the precise scope, limited patent grants, contributor terms and commercial-rights boundaries. The open-source component is the research software; the entire repository is not under one open-source license.
+
 ## Repository map
 
 `src/` research source; `tests/` deterministic tests; `docs/proposals/` 15 editable documents; `docs/` implementation and diligence guides; `examples/` budgets and schemas; `artifacts/` rendered proposal PDFs and document archive; `tools/` reproducible document authoring source; `.github/workflows/` CI.
