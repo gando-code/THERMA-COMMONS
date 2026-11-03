@@ -1,0 +1,50 @@
+{
+  "currency": "USD",
+  "status": "planning assumptions not quotations",
+  "cash_items": [
+    {
+      "item": "Thermal hardware and fabrication",
+      "amount": 4000
+    },
+    {
+      "item": "Sensors logging calibration",
+      "amount": 2500
+    },
+    {
+      "item": "Controls protection enclosure",
+      "amount": 2000
+    },
+    {
+      "item": "Specialist engineering",
+      "amount": 6000
+    },
+    {
+      "item": "Independent testing review",
+      "amount": 2500
+    },
+    {
+      "item": "Consumables cleaning",
+      "amount": 1000
+    },
+    {
+      "item": "Discovery accessibility",
+      "amount": 1000
+    },
+    {
+      "item": "Coordination documentation",
+      "amount": 2000
+    },
+    {
+      "item": "Contingency",
+      "amount": 4000
+    }
+  ],
+  "cash_total": 25000,
+  "optional_in_kind_total": 10000,
+  "gate_releases": [
+    5000,
+    8000,
+    8000,
+    4000
+  ]
+}

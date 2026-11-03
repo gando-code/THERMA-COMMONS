@@ -1,0 +1,503 @@
+{
+  "_notice": "FABRICATED FORMAT FIXTURE. NOT ACTUAL MEASUREMENTS. Label exercises parser only.",
+  "provenance": "measured",
+  "trial_id": "format-fixture-not-evidence",
+  "target_c": 40,
+  "expanded_uncertainty_c": 0.2,
+  "completion_s": 60,
+  "reference_sensor_ids": [
+    "fixture-A",
+    "fixture-B",
+    "fixture-C"
+  ],
+  "samples": [
+    {
+      "timestamp_s": 0,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 1,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 2,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 3,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 4,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 5,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 6,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 7,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 8,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 9,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 10,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 11,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 12,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 13,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 14,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 15,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 16,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 17,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 18,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 19,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 20,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 21,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 22,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 23,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 24,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 25,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 26,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 27,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 28,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 29,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 30,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 31,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 32,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 33,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 34,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 35,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 36,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 37,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 38,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 39,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 40,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 41,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 42,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 43,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 44,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 45,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 46,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 47,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 48,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 49,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 50,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 51,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 52,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 53,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 54,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 55,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 56,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 57,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 58,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 59,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    },
+    {
+      "timestamp_s": 60,
+      "reference_c": [
+        40,
+        40.1,
+        39.9
+      ]
+    }
+  ]
+}

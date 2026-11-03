@@ -1,0 +1,32 @@
+{
+  "protocol_version": "1.0",
+  "trial_id": null,
+  "randomization_seed": null,
+  "device_revision": null,
+  "firmware_hash": null,
+  "operator": null,
+  "mass_g": null,
+  "ambient_C": null,
+  "start_C": null,
+  "target_C": null,
+  "reference_sensor_ids": [],
+  "reference_uncertainty_C": null,
+  "samples": [
+    {
+      "timestamp": null,
+      "control_C": null,
+      "reference_C": [
+        null,
+        null,
+        null
+      ],
+      "wall_energy_Wh": null,
+      "state": null
+    }
+  ],
+  "completion_time_seconds": null,
+  "spatial_range_C": null,
+  "guard_banded_error_C": null,
+  "pass": null,
+  "deviation": null
+}
