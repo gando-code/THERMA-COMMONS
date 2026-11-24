@@ -17,6 +17,7 @@ This repository brings together the 20-concept platform proposal, sponsorship ma
 - [Hardware development plan](docs/HARDWARE_PLAN.md)
 - [Preliminary BOM](docs/PRELIMINARY_BOM.md)
 - [Roadmap](docs/ROADMAP.md)
+- [Engineering verification and architecture gates](docs/VERIFICATION.md)
 - [Publication and IP status](RIGHTS.md)
 
 ## Partner execution and outreach
